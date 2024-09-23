@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C_Workout\\ch03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0477B54-A38B-495B-870B-2CFDB63AA25D}|Prj09\\Prj09.vcxproj|F:\\C_Workout\\ch03\\Prj09\\09numliteral.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0477B54-A38B-495B-870B-2CFDB63AA25D}|Prj09\\Prj09.vcxproj|solutionrelative:Prj09\\09numliteral.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5711F75F-F3BF-44F2-B8F9-7623420168AF}|Prj08\\Prj08.vcxproj|F:\\C_Workout\\ch03\\Prj08\\08charliteral.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5711F75F-F3BF-44F2-B8F9-7623420168AF}|Prj08\\Prj08.vcxproj|solutionrelative:Prj08\\08charliteral.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09numliteral.c",
+              "DocumentMoniker": "F:\\C_Workout\\ch03\\Prj09\\09numliteral.c",
+              "RelativeDocumentMoniker": "Prj09\\09numliteral.c",
+              "ToolTip": "F:\\C_Workout\\ch03\\Prj09\\09numliteral.c",
+              "RelativeToolTip": "Prj09\\09numliteral.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T10:29:54.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "08charliteral.c",
+              "DocumentMoniker": "F:\\C_Workout\\ch03\\Prj08\\08charliteral.c",
+              "RelativeDocumentMoniker": "Prj08\\08charliteral.c",
+              "ToolTip": "F:\\C_Workout\\ch03\\Prj08\\08charliteral.c",
+              "RelativeToolTip": "Prj08\\08charliteral.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T09:43:05.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

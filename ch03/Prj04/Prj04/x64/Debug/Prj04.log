@@ -1,0 +1,3 @@
+﻿  04integer.c
+F:\C_Workout\ch03\Prj04\04integer.c(6,13): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+  Prj04.vcxproj -> F:\C_Workout\ch03\Prj04\x64\Debug\Prj04.exe
